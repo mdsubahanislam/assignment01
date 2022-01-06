@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+}
+.header-section{
+    display: flex;
+    margin: auto;
+}
+.half-width{
+    width: 50%;
+    padding:5%
+}
+.border-fast{
+    border-left:3px red solid;
+    padding-left:3px;
+
+}
+.border-fast{
+    font-size:20px;
+}
+.button-link{
+    padding:10px 20px;
+    background-color:red;
+    width:25%;
+    border-radius:3px;
+    color:white;
+
+}
+
+.half-imge{
+    width: 60%;
+    height:60%
+}
+.parent h1{
+    text-align: center;
+    font-size: 50px;
+}
+.parent h1 span{
+    color: coral;
+    
+}
+.mission-type{
+    display: flex;
+}
+.mission{
+    background-color: aqua;
+    margin: 2%;
+    border-radius: 10px;
+}
+.mission img{
+    width: 50%;
+}
+.child-div{
+    padding: 5%;
+}
+.vission{
+    background-color: bisque;
+    margin: 2%;
+    border-radius: 10px;
+}
+.vission img{
+    width: 50%;
+}
+.goal{
+    background-color: rgb(211, 224, 16);
+    margin: 2%;
+    border-radius: 10px;
+}
+.goal img{
+    width: 50%;
+}
+.half-imge1{
+    width: 85%;
+    height:60%
+}
+.half-width1{
+    width: 60%;
+    padding-right: 20%;
+}
+.button-link1{
+    padding:10px 20px;
+    background-color:red;
+    width:45%;
+    border-radius:3px;
+    color:white;
+
+}
+.header-section1{
+    display: flex;
+    padding-top: 2%;
+    margin-left: 2%;
+}
+.header-section2{
+    display: flex;
+    padding-top: 2%;
+    margin-left: 2%;
+}
+.fotter-section{
+    background-color: black;
+}
+.fotter-section h2{
+color: white;
+text-align: center;
+}
+.orange{
+    color: tomato;
+}
+.fotter-section p{
+color: white;
+text-align: center;
+padding-bottom: 25px;
+}
